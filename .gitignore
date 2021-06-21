@@ -1,0 +1,12 @@
+tavole/slprj/
+tavole/Feedback_dyn.slxc
+tavole/Feedback_dyn_outLoop.slxc
+tavole/Adaptive_Backstepping.slxc
+tavole/Backstepping_control.slxc
+progetto/mass_spring_damper/MDS_grasping/slprj/
+progetto/mass_spring_damper/MDS_grasping/MDS_grasping.slxc
+progetto/mass_spring_damper/MDS_grasping/MDS_grasping.slx.autosave
+progetto/mass_spring_damper/MDS_grasping/stableMDS_variable_stiffness.slxc
+progetto/mass_spring_damper/MDS_grasping/stableMDS_variable_stiffness.slx.autosave
+progetto/franka/functions/slprj/
+progetto/franka/matlab_original/utils/slprj/

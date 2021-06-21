@@ -1,0 +1,10 @@
+# INSTRUCTIONS #
+
+run init.m and simulation on franka_placement_task, than animazione_franka show the animation
+
+# FILES #
+init:				setup variables for simulations
+franka_pacement_task:		simulink file with complete placement simulation
+animazione_franka:		create an animation with the robot in the envirorment
+tests_control_franka:		tests trajectories on franka to test the impedance control
+animazione_traiettoria: 	show only the robot trajectory, used for tests
