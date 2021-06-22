@@ -14,8 +14,8 @@ The three tasks are:
 * instability: choice of variable impedance gains that make the system unstable.
 
 ## RR
-The equivalent of MDS system but implemented on a RR arm.
-The preliminary tasks are then merged into a task in which the object is grasped, lifted and then placed on a shelf. 
+The simulations are carried out on a planar RR robot.
+The preliminary tasks are merged into tasks in which the object is grasped, lifted and then placed on a shelf. 
 
 ## Franka
 The franka folder contains files for the simulation of the last task, grasping and placement.
