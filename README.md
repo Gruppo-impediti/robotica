@@ -1,21 +1,25 @@
 # ROBOTICA
-This repository contain code for the "Controllo dei robot" exam
-The structure of repository is organized as follow:
+This repository contains code for the "Controllo dei robot" exam. 
+
+In each sub-folder there is a file _contents.txt_ with a simple description of the files. 
+
+The structure of repository is organized as follows:
 
 # Progetto
-## mass_spring_damper
-Contain very simple tasks rapresenting the end-effector of a generic manipulator when an impedance control is used.
-Three tasks are:
-* grasping: lifting an object
-* interaction: desired trajectory goes throw an obstacle
-* instability: choice of variable impedance gain that make the system unstable
+## Mass_spring_damper system
+It contains motivational examples and preliminary tasks representing the end-effector of a generic manipulator when an impedance control is used.
+The three tasks are:
+* grasping: lifting of an object;
+* interaction: desired trajectory goes through an obstacle;
+* instability: choice of variable impedance gains that make the system unstable.
 
 ## RR
-The equivalent of MDS but implemented on a RR arm.
-Simple tasks are than merged into a task in wich the object is grasped, lifted and than brought to a shelf
+The equivalent of MDS system but implemented on a RR arm.
+The preliminary tasks are then merged into a task in which the object is grasped, lifted and then placed on a shelf. 
 
-## franka
-The franka folder contain files for the simulation of the last task, grasping and placement.
+## Franka
+The franka folder contains files for the simulation of the last task, grasping and placement.
 
-# tavole
-Tavole contains material about non linear analysis and control
+# Tavole
+Tavole contains the code and simulations about nonlinear analysis and control system.
+
